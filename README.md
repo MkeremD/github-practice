@@ -11,3 +11,5 @@ What i learned so far:
 2. Creating a repository in git
 
 3. Using GitHub Desktop
+
+4. Creating pull requests
